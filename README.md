@@ -1,5 +1,5 @@
-# Name: Hari Karthik. S
-# REGISTER NUMBER : 212224080017
+# Name: Amuthan A
+# REGISTER NUMBER : 212224080004
 
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
